@@ -39,8 +39,33 @@ body {
     padding: 30px 30px 0 30px;
     border-radius: 0 10px 10px 0;
     background-color: hsl(0, 0%, 100%);
-
 }
+
+div#infos>span { /*Seletor de filho*/
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7em;
+    letter-spacing: 0.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: hsl(228, 12%, 48%);
+}
+
+div#infos h1 {
+    font-family: 'Fraunces', serif;
+    padding: 0 50px 0 0;
+    line-height: 1em;
+    margin: 30px 0;
+}
+
+div#infos h1+p{
+    font-size: 0.9em;
+    font-weight: 500;
+    line-height: 1.6em;
+    padding-right: 20px;
+    color: hsl(228, 12%, 48%);
+}
+
+
 
 ### Primary
 
