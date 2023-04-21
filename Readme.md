@@ -91,10 +91,11 @@ Sinta-se avontade para enviar seu feedback!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Frontend Mentor - QR code component solution
-Hello!
-Welcome to my solution for the Qr Code Component challenge in Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This Readme will serve as your guide to understanding this project; it will be based on the template provided by the Frontend Mentor platform itself.
+Hello! 
+Welcome to my solution to the Product Preview Card Component challenge made by Frontend Mentor (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub). This Readme will serve as your guide to understanding this project. It will be based on the template provided by the Frontend Mentor platform itself.
 
-Without further ado, I want to thank you for taking the time to visit my project! :D
+Without further ado, I want to thank you for making some of your time available visiting my project! :D
+All feedback is welcome!!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -112,7 +113,7 @@ Without further ado, I want to thank you for taking the time to visit my project
 
 ## Overview
 ### Print Screen
-![](./design/Resolu%C3%A7%C3%A3o.png)
+![](./Design/Desktop.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
