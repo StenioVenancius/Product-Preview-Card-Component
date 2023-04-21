@@ -8,24 +8,24 @@ body {
     align-items: center;
     font-family: 'Fraunces', serif;
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: hsl(30, 38%, 92%);
 }
 
+/* Card */
 #card {
-    border: 1px solid red;
-    width: 600px;
-    height: 450px;
+    width: 500px;
+    height: 350px;
     display: flex;
     border-radius: 10px;
 }
 
 #image {
-    width: 300px;
-    height: 450px;
+    width: 250px;
+    height: 350px;
     border-radius: 10px 0 0 10px;
     background: hsl(150, 36%, 37%) url(./images/image-product-desktop.jpg) no-repeat;
     background-position: center center;
@@ -33,18 +33,19 @@ body {
 }
 
 #infos {
-    width: 300px;
-    height: 450px;
+    width: 250px;
+    height: 350px;
     box-sizing: border-box;
-    padding: 30px 30px 0 30px;
+    padding: 20px 30px 0 30px;
     border-radius: 0 10px 10px 0;
     background-color: hsl(0, 0%, 100%);
 }
 
+/* Estilização do Card de Informações */
 div#infos>span { /*Seletor de filho*/
     font-family: 'Montserrat', sans-serif;
     font-size: 0.7em;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.7em;
     font-weight: 500;
     text-transform: uppercase;
     color: hsl(228, 12%, 48%);
@@ -52,22 +53,24 @@ div#infos>span { /*Seletor de filho*/
 
 div#infos h1 {
     font-family: 'Fraunces', serif;
-    padding: 0 50px 0 0;
+    font-size: 2.2em;
     line-height: 1em;
-    margin: 30px 0 0 0;
+    margin: 15px 0 0 0;
 }
 
 div#infos h1+p{
     font-size: 0.9em;
     font-weight: 500;
     line-height: 1.6em;
-    margin: 25px 0;
-    padding-right: 20px;
+    margin: 20px 0;
+    padding-right: 10px;
     color: hsl(228, 12%, 48%);
 }
 
+
+/* Estilização dos Preços */
 #price {
-    height: 50px;
+    height: 30px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -86,6 +89,25 @@ div#price h2+span {
     color: hsl(228, 12%, 48%);
 }
 
+/* Estilização do Botão */
+input {
+    width: 100%;
+    height: 40px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border: none;
+    font-size: 0.9em;
+    font-weight: 800;
+    text-align: center;
+    text-indent: 25px;
+    color: hsl(0, 0%, 100%);
+    background-image: url(./images/icon-cart.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position-x: 50px;
+    background-size: 14px;
+    background-color: hsl(158, 36%, 37%);
+}
 ### Primary
 
 - Dark cyan: hsl(158, 36%, 37%)
