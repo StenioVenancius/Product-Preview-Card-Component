@@ -108,13 +108,9 @@ input {
     background-size: 14px;
     background-color: hsl(158, 36%, 37%);
 }
-### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
-
-### Neutral
-
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
-- White: hsl(0, 0%, 100%)
+input:active {
+    cursor: pointer;
+    background-color: hsl(212, 12%, 14%);
+    transition: ease-in-out;
+}
