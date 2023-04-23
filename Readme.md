@@ -1,6 +1,6 @@
 ## Pt-Br
 ------------------------------------------------------------------------------------------------------------------------------------------------ 
-# Frontend Mentor - Solução de Componente de Qr Code
+# Frontend Mentor - Solução de Cartão de Visualização de Produto
 Olá! 
 Seja muito bem-vindo(a) a minha solução para o desafio do Componente do Cartão de Visualização do Produto feito pelo Frontend Mentor (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub). Este Readme servirá como seu guia para o entendimento deste projeto. Ele terá como base o template disponiblizado pela própria plataforma do Frontend Mentor.
 
@@ -90,7 +90,7 @@ Sinta-se avontade para enviar seu feedback!
 ## EN
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Product Preview Card Component solution
 Hello! 
 Welcome to my solution to the Product Preview Card Component challenge made by Frontend Mentor (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub). This Readme will serve as your guide to understanding this project. It will be based on the template provided by the Frontend Mentor platform itself.
 
